@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there, want to know more about me ? 👋
 
 <!--
 **marie-camilo/marie-camilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+name: Marie Camilo--Marchal
+located_in: Grenoble, France
+current_job: Second-year BUT MMI student at the University of Grenoble and Future Full Stack Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
