@@ -1,4 +1,4 @@
-## Hi there, want to know more about me ? 👋
+## Hi world! Want to know more about me ?
 
 ```yaml
 name: Marie Camilo--Marchal
@@ -30,3 +30,12 @@ education:
 currently_learning: ["React Native", "ViteJS"]
 2025 Goals: ["Create new Projects and learn at least 5-8 new Technologies."]
 ```
+
+![Snake animation](https://github.com/marie-camilo/marie-camilo/blob/output/github-contribution-grid-snake.svg)
+
+<h2>Some Tools I Have Used</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
