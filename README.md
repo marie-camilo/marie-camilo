@@ -31,8 +31,6 @@ currently_learning: ["React Native", "ViteJS"]
 2025 Goals: ["Create new Projects and learn at least 5-8 new Technologies."]
 ```
 
-![Snake animation](https://github.com/marie-camilo/marie-camilo/blob/output/github-contribution-grid-snake.svg)
-
 <h2>Some Tools I Have Used</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
