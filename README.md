@@ -1,5 +1,6 @@
 ## Hi there, want to know more about me ? 👋
 
+```yaml
 name: Marie Camilo--Marchal
 located_in: Grenoble, France
 current_job: Second-year BUT MMI student at the University of Grenoble and Future Full Stack Developer
@@ -28,3 +29,4 @@ education:
 
 currently_learning: ["React Native", "ViteJS"]
 2025 Goals: ["Create new Projects and learn at least 5-8 new Technologies."]
+```
