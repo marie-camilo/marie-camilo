@@ -3,7 +3,7 @@
 ```yaml
 name: Marie Camilo--Marchal
 located_in: Grenoble, France
-current_job: Second-year BUT MMI student at the University of Grenoble and Future Full Stack Developer
+current_job: Third-year BUT MMI student at the University of Grenoble and Future Full Stack Developer
 
 education:
   [
@@ -14,17 +14,17 @@ education:
   fields_of_interests:
   [
     "Full Stack Web Development",
+    "Software Engineering",
     "Machine Learning",
     "UI/UX Design",
     "Game Development",
-    "Software Engineering"
   ]
   technical_background:
   [
+    "Co-founder & Web Developer - Discorev",
+    "Intern - Discorev",
     "Full Stack Developer",
     "Multiplatform Development",
-    "Game Developer",
-    "Intern - Discorev",
   ]
 
 currently_learning: ["React Native", "ViteJS"]
